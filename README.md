@@ -13,7 +13,7 @@ Below are the observations-
 
 ![Everyonr in group](https://github.com/ARGULASAISURAJ/Survival-Analysis-of-Lung-Cancer-Patients/blob/main/Images/Kaplan-Meier-Graph-all.PNG)
 
-![By Individuaual treatment group]https://github.com/ARGULASAISURAJ/Survival-Analysis-of-Lung-Cancer-Patients/blob/main/Images/Kaplan-Meier-Graph-by-treatment.PNG
+![By Individuaual treatment group](https://github.com/ARGULASAISURAJ/Survival-Analysis-of-Lung-Cancer-Patients/blob/main/Images/Kaplan-Meier-Graph-by-treatment.PNG)
 
 
 # Non Parametric Model- Kaplan Meir Graph
